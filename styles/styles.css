@@ -1,0 +1,80 @@
+/* body font */
+body{font-family: 'Montserrat', sans-serif;}
+/* main block */
+.main {background-color: white;box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    width: 1200px; margin: 40px auto;display: flex; flex-direction: row;}
+.main_content {padding: 105px 90px;}
+.about_title, .projects_item {font-style: normal;font-weight: 700;font-size: 14px;
+    line-height: 17px;color: #000000;}
+.projects_list {padding: 0; margin-left: 15px;}
+.about_title {margin-bottom: 20px;}
+h1 {font-style: normal;font-weight: 700;font-size: 45px;line-height: 55px;
+    color: #000000;}
+.about_text {width: 400px;height: 120px;margin-bottom: 30px;}
+.projects {margin-bottom: 60px;}
+.projects_link, .project {font-style: normal;font-weight: 400;font-size: 14px;
+    line-height: 24px; color: #595959;}
+.quote {font-style: normal;font-weight: 700;font-size: 14px;
+    line-height: 24px;color: #000000;}
+.about_title_middle {font-style: normal;font-weight: 700;font-size: 22px;
+    line-height: 27px;color: #000000;margin-bottom: 8px;}
+.work_block {margin-bottom: 15px;}
+.work_title {font-style: normal;font-weight: 700;font-size: 16px;line-height: 20px;
+    margin-bottom: 8px;}
+.work_name  {color: #FB6D3A;}
+.date {font-style: normal;font-weight: 400;font-size: 12px;line-height: 15px;
+    color: #A8A8A8;}
+.line {color: black;}
+.comp_list {padding: 0; margin-left: 15px;}
+.comp_item {font-style: normal;font-weight: 700;font-size: 14px;
+    line-height: 24px;color: #000000;}
+.comp_text {font-style: normal;font-weight: 400;
+        font-size: 14px;line-height: 24px;color: #595959;} 
+.education {font-style: normal;font-weight: 700;font-size: 22px;line-height: 27px;
+    color: #000000; margin-bottom: 10;}
+.education_name {font-style: normal;font-weight: 700;font-size: 16px;
+        line-height: 20px;color: #FB6D3A; margin-bottom: 10;}
+.education_spec {font-style: normal;font-weight: 700;font-size: 14px;
+    line-height: 17px;color: #000000; margin-bottom: 10;}
+.ed_it {color: #000000;}
+
+
+
+
+/* sidebar */
+.side { background: #1E2939; width: 370px; padding-top: 40px; margin-left: 40px;}
+.img{width: 370px;height: 350px;margin-bottom: 50px;}
+.cont, .tech, .soft {margin-left: 40px;}
+.cont, .tech {margin-bottom: 50px;}
+.side_title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+.cont_type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+.cont_link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #8e949c;
+}
+.tech_list, .soft_list{color: white; padding: 0; margin-left: 20px;}
+.tech_item, .soft_item{color: #FB6D3A;}
+.tech_text, .soft_text{
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
